@@ -11,23 +11,23 @@ Podemos usar nuestra app de la siguiente forma:
 Permite agregar imágenes desde un dispositivo y visualizarlas.
 
 
-![Crear y visualizar](./resources/selectImage.jpg)
+![Crear y visualizar](./resources/selectImage.jpeg)
 
 
-![Escoger Imagen](./resources/choose.jpg)
+![Escoger Imagen](./resources/choose.jpeg)
 
 
-![Visualizar Galería](./resources/galery.jpg)
+![Visualizar Galería](./resources/galery.jpeg)
 
 
 ### Eliminar   
 Permite eliminar la imagen con tap sostenido para desplegar le menu donde aparecerá la opción **Eliminar**. 
 
-![Eliminar](./resources/delete.jpg)
+![Eliminar](./resources/delete.jpeg)
 
 
 ### Opciones de visualización detallada
 Permite seleccionar una imagen y ver el detalle de esta(date, size, dimensions and place).
 
 
-![Visualizar el detalle de una imagen](./resources/detail.jpg)
+![Visualizar el detalle de una imagen](./resources/detail.jpeg)
